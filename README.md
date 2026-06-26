@@ -39,9 +39,6 @@ Compatible with any headset supporting:
 * OpenXR Runtime installed
 * Hand Tracking enabled on your target device
 
-> **UE 5.7 Note:**
-> XrInteract has been tested on Unreal Engine 5.7. Due to an API change, you may need to pass the additional `bool IsTracked` parameter to the updated function if you encounter a compilation error.
-
 ---
 
 ## Usage
